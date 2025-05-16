@@ -8,7 +8,7 @@
 
 ## 🚧 Currently Working On:
 - ⚙️ An advanced **Discord moderation bot**
-- 🌐 A self-made **Still Learning** using HTML, CSS, and PHP
+- 🌐 Still Learning
 - 📡 A basic **API development** experiment
 
 ---
